@@ -272,7 +272,7 @@ AIFitnessPlanner-main/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/vikrambhat2/AIFitnessPlanner.git
+git clone https://github.com/Dhruv0209/AeroFit-AI
 cd AIFitnessPlanner
 ```
 
